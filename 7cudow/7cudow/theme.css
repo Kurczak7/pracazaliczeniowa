@@ -28,7 +28,9 @@ a:hover{
     text-decoration:underline
 }
 
-
+h2.bands-h2 {
+  text-align; center;
+}
 .topbar{
     display:flex;
     align-items:center;
@@ -371,3 +373,4 @@ a:hover{
 .survey input:focus, .survey select:focus, .survey textarea:focus, .form-actions button:focus{
     outline:2px dashed rgba(109,211,206,0.35);outline-offset:2px
 }
+
