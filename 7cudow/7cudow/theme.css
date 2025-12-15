@@ -30,6 +30,7 @@ a:hover{
 
 .bands-h2 {
   text-align; center;
+  width: 100vw;
 }
 .topbar{
     display:flex;
@@ -373,5 +374,6 @@ a:hover{
 .survey input:focus, .survey select:focus, .survey textarea:focus, .form-actions button:focus{
     outline:2px dashed rgba(109,211,206,0.35);outline-offset:2px
 }
+
 
 
